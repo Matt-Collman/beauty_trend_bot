@@ -1,0 +1,6 @@
+__pycache__/
+.env
+*.zip
+*.exe
+Untitled.txt
+Email_bot/

@@ -4,3 +4,9 @@ __pycache__/
 *.exe
 Untitled.txt
 Email_bot/
+Chrome-win64
+chrome-win64/
+chromedriver.exe
+chromedriver-win64.zip
+*.zip
+*.exe
